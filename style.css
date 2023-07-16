@@ -1,0 +1,7 @@
+/* work sans fonts */
+
+  @import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Lato:wght@400;900&family=Montserrat+Alternates&family=Open+Sans:wght@400;700;800&family=Roboto&family=Satisfy&family=Work+Sans:wght@400;500;600;700;800&display=swap');
+
+  *{
+    font-family: 'Work Sans', sans-serif;
+  }
